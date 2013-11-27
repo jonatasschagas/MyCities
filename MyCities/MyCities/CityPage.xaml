@@ -1,0 +1,48 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MyCities.CityPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <controls:Panorama Title="My Cities">
+    
+            <!--Panorama item one-->
+            <controls:PanoramaItem Header="">
+                <Grid>
+                    <StackPanel Name="stackPanel1">
+                        <TextBlock Height="60" HorizontalAlignment="Left" Name="cityNameTitle" Text="" VerticalAlignment="Top" FontSize="45" Width="400" />
+                        <Image Height="500" HorizontalAlignment="Center" Name="imageCity" Stretch="Uniform" VerticalAlignment="Center" Width="393" />
+                    </StackPanel>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--Panorama item two-->
+            <controls:PanoramaItem Header="">
+                <Grid>
+                    <StackPanel  Name="stackPanel2">
+                        <TextBlock Height="60" HorizontalAlignment="Left" Name="weatherTextBlock" Text="Weather" VerticalAlignment="Top" FontSize="45" Width="400" Tap="weatherTextBlock_Tap" />
+                        <TextBlock Height="60" HorizontalAlignment="Left" Name="descriptionTextBlock" Text="Description" VerticalAlignment="Top" FontSize="45" Width="400" Tap="descriptionTextBlock_Tap" />
+                        <TextBlock Height="60" HorizontalAlignment="Left" Name="picturesTextBlock" Text="Pictures" VerticalAlignment="Top" FontSize="45" Width="400" Tap="picturesTextBlock_Tap" />
+                        <TextBlock FontSize="45" Height="60" HorizontalAlignment="Left" Name="mapTextBlock" Text="Map" VerticalAlignment="Top" Width="400" Tap="mapTextBlock_Tap" />
+                        <TextBlock Height="60" HorizontalAlignment="Left" Name="addToFavoritesTextBlock" Text="Add to Favorites" VerticalAlignment="Top" FontSize="45" Width="400" Tap="addToFavoritesTextBlock_Tap" />
+                    </StackPanel>
+                </Grid>
+            </controls:PanoramaItem>
+        </controls:Panorama>
+    </Grid>
+
+    <!--Panorama-based applications should not show an ApplicationBar-->
+
+</phone:PhoneApplicationPage>

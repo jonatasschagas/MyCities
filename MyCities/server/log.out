@@ -1,0 +1,68 @@
+Curitiba not found in the database. Loading info from the web
+cannot create picture for Curitiba_2
+82.181.215.23 - - [23/Nov/2013:17:25:18] "GET /index/all_info/Curitiba HTTP/1.1" 200 38303 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+82.181.215.23 - - [23/Nov/2013:17:26:50] "GET /index/all_info/Curitiba HTTP/1.1" 200 38303 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [23/Nov/2013:17:29:32] "GET /index/all_info/Curitiba HTTP/1.1" 200 38296 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [23/Nov/2013:17:30:13] "GET /index/all_info/Curitiba HTTP/1.1" 200 38296 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+Iasi not found in the database. Loading info from the web
+82.181.215.23 - - [23/Nov/2013:17:31:48] "GET /index/all_info/Iasi HTTP/1.1" 200 28376 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [23/Nov/2013:17:42:44] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+City not found in the database. Loading info from the web
+188.238.241.47 - - [23/Nov/2013:18:07:34] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:18:07:35] "GET /index/all_info/City HTTP/1.1" 500 1610 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:18:07:57] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:18:10:21] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:18:13:36] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:18:14:24] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:18:15:32] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:18:17:39] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:18:18:38] "GET /index/all_info/Curitiba HTTP/1.1" 200 38302 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:19:44:23] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:19:46:41] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:19:51:35] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:19:52:39] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:19:54:07] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:19:56:10] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:00:57] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:02:07] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:03:12] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:04:37] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:05:31] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:08:32] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:09:27] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:11:02] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.241.47 - - [23/Nov/2013:20:12:00] "GET /index/all_info/Curitiba HTTP/1.1" 200 38306 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [24/Nov/2013:09:33:47] "GET /index/all_info/Curitiba HTTP/1.1" 200 38313 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [24/Nov/2013:09:45:38] "GET / HTTP/1.1" 404 1267 "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+82.181.215.23 - - [24/Nov/2013:09:45:39] "GET /favicon.ico HTTP/1.1" 200 1406 "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+82.181.215.23 - - [24/Nov/2013:09:45:48] "GET /all_info/Paranagua HTTP/1.1" 404 1269 "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+Paranagua not found in the database. Loading info from the web
+82.181.215.23 - - [24/Nov/2013:09:46:12] "GET /index/all_info/Paranagua HTTP/1.1" 200 3769 "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+82.181.215.23 - - [24/Nov/2013:09:56:35] "GET /index/all_info/Paranagua HTTP/1.1" 200 3769 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [24/Nov/2013:09:59:31] "GET /index/all_info/Paranagua HTTP/1.1" 200 3769 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+Curutiba not found in the database. Loading info from the web
+cannot create picture for Curutiba_2
+82.181.215.23 - - [24/Nov/2013:10:02:03] "GET /index/all_info/Curitiba HTTP/1.1" 200 38313 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [24/Nov/2013:10:02:22] "GET /index/all_info/Curutiba HTTP/1.1" 200 2436 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [24/Nov/2013:10:25:07] "GET /index/all_info/Curitiba HTTP/1.1" 200 38313 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [24/Nov/2013:10:25:32] "GET /index/all_info/Paranagua HTTP/1.1" 200 3769 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+82.181.215.23 - - [24/Nov/2013:13:53:02] "GET /index/all_info/Curitiba HTTP/1.1" 200 38313 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+82.181.215.23 - - [24/Nov/2013:13:57:05] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+Curitiba not found in the database. Loading info from the web
+cannot create picture for Curitiba_2
+Curitiba not found in the database. Loading info from the web
+cannot create picture for Curitiba_2
+82.181.215.23 - - [24/Nov/2013:13:58:07] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+82.181.215.23 - - [24/Nov/2013:13:58:13] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"
+82.181.215.23 - - [24/Nov/2013:14:02:25] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+Paris not found in the database. Loading info from the web
+82.181.215.23 - - [24/Nov/2013:14:05:50] "GET /index/all_info/Paris HTTP/1.1" 200 84241 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:14:30] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:14:53] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:16:24] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:17:42] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:19:49] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:24:43] "GET /index/all_info/Curitiba HTTP/1.1" 200 38327 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:25:54] "GET /index/all_info/Paris HTTP/1.1" 200 84241 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:51:35] "GET /index/all_info/Paris HTTP/1.1" 200 84241 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
+188.238.181.241 - - [24/Nov/2013:14:52:40] "GET /index/all_info/Curitiba HTTP/1.1" 200 38321 "file:///Applications/Install/36E00964-199B-4341-B93D-ADD8CD459983/Install/" "NativeHost"
